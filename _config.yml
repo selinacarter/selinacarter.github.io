@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Selina Carter"
+title                    : "Selina Carter's Research Site"
 title_separator          : "-"
 name                     : &name "Selina Carter"
 description              : &description "My personal website for research and life!"
@@ -186,7 +186,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
