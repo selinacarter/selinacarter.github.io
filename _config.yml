@@ -228,11 +228,11 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: hello
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _portfolio
   - scope:
