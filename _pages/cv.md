@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="http://selinacarter.github.io/files/Carter_Selina_CV_2024.05.15.pdf" download>Download CV (2024/05/15)</a>
+
+
+
+
+
 Education
 ======
 * Ph.D candidate, Statistics, Carnegie Mellon Univeresity (2021-present)
@@ -18,7 +24,7 @@ Education
 * M.A. in International Relations, The Maxwell School, Syracuse University, 2012
 * B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
 
-Work experience (abreviated)
+Work experience (abbreviated)
 ======
 
 * Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2020)
