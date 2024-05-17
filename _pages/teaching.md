@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching (Instructor)
+#Teaching (Instructor)
 ======
 * "Intro to Statistical Inference" (36-226), Statistics and Data Science Department, Carnegie Mellon University
   * Summer 2023
 
 
-Teaching Assistantships
+##Teaching Assistantships
 ======
 * "Time Series" (36-471/671)
   * Statistics and Data Science Department, Carnegie Mellon University
