@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate, Statistics, Carnegie Mellon Univeresity (2021-present)
+* M.S. in Mathematics and Statistics, Georgetown University, 2019
+* M.P.A., The Maxwell School, Syracuse University, 2012
+* M.A. in Economics, The Maxwell School, Syracuse University, 2012
+* M.A. in International Relations, The Maxwell School, Syracuse University, 2012
+* B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
 
-Work experience
+Work experience (abreviated)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2020)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Business Intelligence Consultant, Inter-American Development Bank – Washington, D.C. (2015-2017)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Research Associate, Jameel Poverty Action Lab - Nampula, Mozambique  (2014-2015)
+
+* Financial Director, Development and Statistical Officer - Ankara, Turkey		(2012-2013)
+
+* David L. Boren Fellow – Ankara, Turkey (2012)
+  * U.S. National Security Education Program grant for advanced Turkish language study
+  * Lived with a host family; received intensive language training (20 hours/week); completed graduate coursework (in Turkish) at Ankara University economics department; researched Turkish economic development policy in the banking sector and microfinance (culminating in MA-economics thesis).
+
+* Fulbright Scholar – Lisbon, Portugal	 (2008-2009)
+  * English Teaching Assistant and student of Portuguese language at the University of Lisbon; launched a theater group and directed a one-act play aimed at rethinking stereotypes of America.
+
+* U.S. Peace Corps Volunteer – El Cambio, Ecuador	(2006-2008)
+
+
