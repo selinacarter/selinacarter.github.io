@@ -24,10 +24,10 @@ Education
 * M.A. in International Relations, The Maxwell School, Syracuse University, 2012
 * B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
 
-
+<!---
 <a href="https://public.tableau.com/views/world_map_life/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img src="/images/map.jpg" 
 alt="Selina's world map" width="800" height="600" border="10" title="Click to open interactive map" /></a>
-
+--->
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '900' height = '600' scrolling='yes' ></iframe>   
 
