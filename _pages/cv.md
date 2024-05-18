@@ -26,7 +26,7 @@ Education
 
 
 <a href="https://public.tableau.com/views/world_map_life/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img src="/files/map.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Selina's world map" width="600" height="400" border="10" title="Click to open interactive map" /></a>
 
 
 Work experience (abbreviated)
