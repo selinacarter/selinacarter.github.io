@@ -29,12 +29,9 @@ Education
 alt="Selina's world map" width="800" height="600" border="10" title="Click to open interactive map" /></a>
 
 
-TEST
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Map?:embed-yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>   
 
-TEST 2
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Map?:embed-yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>   
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
 
 
 Work experience (abbreviated)
