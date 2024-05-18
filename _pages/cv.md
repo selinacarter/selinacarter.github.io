@@ -25,12 +25,8 @@ Education
 * B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://public.tableau.com/views/world_map_life/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img src="/files/map.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-TESTING 4
-<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/app/profile/selina.carter6629/viz/world_map_life/Map?embed=true"/>
 
 
 Work experience (abbreviated)
