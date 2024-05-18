@@ -29,7 +29,7 @@ Education
 alt="Selina's world map" width="800" height="600" border="10" title="Click to open interactive map" /></a>
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '1000' height = '700' scrolling='yes' ></iframe>   
 
 
 
