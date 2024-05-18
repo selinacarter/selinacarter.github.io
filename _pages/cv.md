@@ -28,15 +28,8 @@ Education
 <a href="https://public.tableau.com/views/world_map_life/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img src="/images/map.jpg" 
 alt="Selina's world map" width="800" height="600" border="10" title="Click to open interactive map" /></a>
 
-VERSION 1
-
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>   
-
-VERSION 2
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Map?:embed-yes&:display_count=yes&:showVizHome=no" width = '800' height = '600' scrolling='yes' ></iframe>   
-
 
 
 
