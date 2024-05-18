@@ -28,13 +28,19 @@ Education
 
 <iframe width="560" height="315" src="https://public.tableau.com/views/world_map_life/Map?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 TESTING 1
-<iframe src="https://public.tableau.com/app/profile/selina.carter6629/viz/world_map_life/Map?:embed=true"
+<iframe src="https://public.tableau.com/app/profile/selina.carter6629/viz/world_map_life/Map?embed=true"
  width="700" height="500"></iframe>
 
 TESTING 2
 
 <iframe src="https://public.tableau.com/views/world_map_life/Map?:language=en-US&publish=yes&:sid=&:display_count=n&:embed=true"
  width="700" height="500"></iframe>
+TESTING 3
+
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/profile/poldham#!/vizhome/MySecretPlanforWorldDomination/Historia1?publish=yes"/>
+
+TESTING 4
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/app/profile/selina.carter6629/viz/world_map_life/Map?publish=yes"/>
 
 
 Work experience (abbreviated)
