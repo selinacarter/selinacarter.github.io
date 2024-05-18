@@ -36,7 +36,7 @@ alt="Selina's world map" width="800" height="600" border="10" title="Click to op
 Work experience (abbreviated)
 ======
 
-* Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2020)
+* Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2021)
 
 * Business Intelligence Consultant, Inter-American Development Bank – Washington, D.C. (2015-2017)
 
