@@ -14,7 +14,8 @@ redirect_from:
 
 
 
-## Unique perspectives
+<img src="/images/favicon.ico" width="25"> Unique perspectives <img src="/images/favicon.ico" width="25">
+======
 
 My journey is not typical for a statistics doctoral student. I was raised in rural [Maine](https://en.wikipedia.org/wiki/Maine). My academic background began in economics and public policy, but it was my fluency in Spanish, Portuguese, and Turkish that enabled me to apply academic achievements to work in multiple countries. I was a [Peace Corps Volunteer](https://www.peacecorps.gov/) in Ecuador, a [Fulbright Scholar](https://us.fulbrightonline.org/) in Portugal, and a [Boren Fellow](https://www.borenawards.org/) in Turkey. I then became Financial Director of the [Turkish Grameen Microfinance Program](https://www.tgmp.net/en/), using statistics to show the effect of micro-loans in a population of low-income Turkish and Kurdish women. Subsequently, in Mozambique I was the field coordinator for a baseline survey on child vaccination run by MIT’s [Jameel Poverty Action Lab](https://www.povertyactionlab.org/). In Portuguese, I managed a team of native Mozambicans to collect household data in rural villages; this required me not only to oversee scientific goals and to manage data protocols, but also to camp in tents, procure local roosters for dinner, and avoid venomous snakes. These experiences required technical knowledge, people skills, and grit.
 
