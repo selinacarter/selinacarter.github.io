@@ -12,10 +12,10 @@ redirect_from:
 
 ![CMU colleagues](/images/CMU_patio1.jpg)
 
-I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html), entering in 2021. Before joining CMU, I worked at the [Inter-American Development Bank (IDB)](https://www.iadb.org/en) as a data scientist in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). 
+I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html) (cohort of 2021). Before joining CMU, I worked at the [Inter-American Development Bank](https://www.iadb.org/en) as a data scientist in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). 
 
 
-My primary area of interest is uncertainty quantification (UQ) on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla (Statistics Department)](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
+My primary area of interest is uncertainty quantification (UQ) on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
 
 
 <img src="/images/favicon.ico" width="25"> Personal interests <img src="/images/favicon.ico" width="25">
