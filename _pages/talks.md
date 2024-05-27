@@ -24,13 +24,11 @@ Abstract: How can we use R to predict project delays in international developmen
 
 * 2019 DC R Conference
 
-* Abstract: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_ZGjE5rUwU?si=FUbDsyM9ouU0HkTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="200" src="https://www.youtube.com/embed/Y_ZGjE5rUwU?si=FUbDsyM9ouU0HkTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Portrait Perspective
 
-* Abstract: 
 
 * November 2017, Inter-American Development Bank (IDB) Innovative Talks
 

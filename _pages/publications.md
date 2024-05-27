@@ -26,16 +26,14 @@ author_profile: true
 
 
 
-Submitted papers and pre-prints
-======
+## Submitted papers and pre-prints
 
 * (Pre-print) Meyer, M. J., Carter, S., Mordukhovich, I., McNeely, E., Malloy, E. J. ["Model Selection in Variational Mixed Effects Models.”](https://arxiv.org/abs/2206.04012) arXiv preprint arXiv:2206.04012 (2022).
 * (Pre-print) Hersh J., Carter S. [“Explainable AI Helps Bridge the AI Skills Gap: Evidence from a Large Bank.”](https://digitalcommons.chapman.edu/economics_articles/276/) Chapman University Digital Commons.
 * "Modeling COVID-19 testing rates by occupation among U.S. adults." Advanced Data Analysis Project (required for second-year PhD students in statistics at CMU), advised by Alex Reinhart and Robin Mejia.
 
 
-Conferences
-======
+## Conferences
 
 * "Will AI Accelerate the Intra-Firm Digital Divide? Evidence from a Field Experiment on How Managers use Explainable AI" (Presented by co-author Jonathan Hersh)
   * MIT Conference on Digital Experimentation (CODE) (11/10/2023)
