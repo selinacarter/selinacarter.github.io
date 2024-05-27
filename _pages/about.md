@@ -25,8 +25,5 @@ Personal interests
 * I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
 
 
-![Mural in Mozambique](/images/mural_moz.jpg  width="400" ) ![Rainy survey trip in Mozambique](/images/moz_rain.jpg "optional image title") ![Race in Ecuador](/images/run_ecuador.jpg "optional image title"  width=10)
 
-
-
-<img src="/images/mural_moz.jpg" width="400">
+<img src="/images/mural_moz.jpg" width="400" title="Mural I did in Island of Mozambique"><img src="/images/run_ecuador.jpg" width="400" title="Run (10K I think) in Guayaquil, Ecuador"><img src="/images/me_chicken.jpg" width="400" title="Me (age 7?) and a pet hen in Maine">
