@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+I love sharing a passion for statistics through teaching. I enjoy explaining statistics both intuitively and mathematically.
+
+
 Teaching (Instructor)
 ======
 * "Intro to Statistical Inference" (36-226)
