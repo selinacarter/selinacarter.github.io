@@ -14,24 +14,11 @@ redirect_from:
 
 
 
-Unique perspectives 
-======
+## Unique perspectives 
+
 My journey is not typical for a statistics doctoral student. I was raised in rural [Maine](https://en.wikipedia.org/wiki/Maine). My academic background began in economics and public policy, but it was my fluency in Spanish, Portuguese, and Turkish that enabled me to apply academic achievements to work in multiple countries. I was a [Peace Corps Volunteer](https://www.peacecorps.gov/) in Ecuador, a [Fulbright Scholar](https://us.fulbrightonline.org/) in Portugal, and a [Boren Fellow](https://www.borenawards.org/) in Turkey. I then became Financial Director of the [Turkish Grameen Microfinance Program](https://www.tgmp.net/en/), using statistics to show the effect of micro-loans in a population of low-income Turkish and Kurdish women. Subsequently, in Mozambique I was the field coordinator for a baseline survey on child vaccination run by MIT’s [Jameel Poverty Action Lab](https://www.povertyactionlab.org/). In Portuguese, I managed a team of native Mozambicans to collect household data in rural villages; this required me not only to oversee scientific goals and to manage data protocols, but also to camp in tents, procure local roosters for dinner, and avoid venomous snakes. These experiences required technical knowledge, people skills, and grit.
 
 To say the least, I have enjoyed working with teams from diverse backgrounds. I believe my unique industry experiences can offer new perspectives and useful applications for statistics and machine learning, particularly in emerging markets where the uptake of such tools is in its infancy.
-
-
-
-
-
-Education
-======
-* Ph.D candidate, Statistics, Carnegie Mellon Univeresity (2021-present)
-* M.S. in Mathematics and Statistics, Georgetown University, 2019
-* M.P.A., The Maxwell School, Syracuse University, 2012
-* M.A. in Economics, The Maxwell School, Syracuse University, 2012
-* M.A. in International Relations, The Maxwell School, Syracuse University, 2012
-* B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
 
 <!---
 <a href="https://public.tableau.com/views/world_map_life/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank"><img src="/images/map.jpg" 
@@ -42,8 +29,20 @@ alt="Selina's world map" width="800" height="600" border="10" title="Click to op
 
 
 
-Work experience (abbreviated)
-======
+
+
+## Education
+
+* Ph.D candidate, Statistics, Carnegie Mellon Univeresity (2021-present)
+* M.S. in Mathematics and Statistics, Georgetown University, 2019
+* M.P.A., The Maxwell School, Syracuse University, 2012
+* M.A. in Economics, The Maxwell School, Syracuse University, 2012
+* M.A. in International Relations, The Maxwell School, Syracuse University, 2012
+* B.A. in International Studies and Spanish (Honors), Summa Cum Laude, Dickinson College, 2006
+
+
+
+## Work experience (abbreviated)
 
 * Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2021)
 
