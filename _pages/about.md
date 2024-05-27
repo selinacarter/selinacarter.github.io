@@ -26,4 +26,4 @@ Personal interests
 
 
 
-<img src="/images/mural_moz.jpg" width="400" title="Mural I did in Island of Mozambique"><img src="/images/run_ecuador.jpg" width="400" title="Run (10K I think) in Guayaquil, Ecuador"><img src="/images/me_chicken.jpg" width="400" title="Me (age 7?) and a pet hen in Maine">
+<img src="/images/mural_moz.jpg" width="400" title="Mural I did in Island of Mozambique"><img src="/images/run_ecuador.jpg" width="400" title="Run (10K I think) in Guayaquil, Ecuador"><img src="/images/me_chicken.png" width="200" title="Me (age 7?) and a pet hen in Maine">
