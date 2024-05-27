@@ -15,11 +15,11 @@ I am currently a Ph.D. student in statistics at [Carnegie Mellon University](htt
 My primary area of interest is uncertainty quantification (UQ) on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla (Statistics Department)](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
 
 
-
-
-Unique perspectives 
+Personal interests
 ======
-My journey is not typical for a statistics doctoral student. I was raised in rural Maine. My academic background began in economics and public policy, but it was my fluency in Spanish, Portuguese, and Turkish that enabled me to apply academic achievements to work in multiple countries (see my [map](https://public.tableau.com/app/profile/selina.carter6629/viz/world_map_life/Dashboard2)). I was a Peace Corps Volunteer in Ecuador, a Fulbright Scholar in Portugal, and a Boren Fellow in Turkey. I then became Financial Director of the Turkish Grameen Microfinance Program, using statistics to show the effect of micro-loans in a population of low-income Turkish and Kurdish women. Subsequently, in Mozambique I was the field coordinator for a baseline survey on child vaccination run by MIT’s Jameel Poverty Action Lab. In Portuguese, I managed a team of 15 Mozambicans to collect household data in rural villages; this required me not only to oversee scientific goals and to manage data protocols, but also to camp in tents, procure local roosters for dinner, and avoid venomous snakes. These experiences required technical knowledge, people skills, and grit.
 
-To say the least, I have enjoyed working with teams from diverse backgrounds. I believe my unique industry experiences can offer new perspectives and useful applications for statistics and machine learning, particularly in emerging markets where the uptake of such tools is in its infancy.
+* :_{smiley}: I love [painting](https://github.com/selinacarter), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
 
+* I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU over other schools.
+
+* I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.

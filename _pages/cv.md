@@ -29,6 +29,16 @@ Education
 alt="Selina's world map" width="800" height="600" border="10" title="Click to open interactive map" /></a>
 --->
 
+Unique perspectives 
+======
+My journey is not typical for a statistics doctoral student. I was raised in rural Maine. My academic background began in economics and public policy, but it was my fluency in Spanish, Portuguese, and Turkish that enabled me to apply academic achievements to work in multiple countries. I was a Peace Corps Volunteer in Ecuador, a Fulbright Scholar in Portugal, and a Boren Fellow in Turkey. I then became Financial Director of the Turkish Grameen Microfinance Program, using statistics to show the effect of micro-loans in a population of low-income Turkish and Kurdish women. Subsequently, in Mozambique I was the field coordinator for a baseline survey on child vaccination run by MIT’s Jameel Poverty Action Lab. In Portuguese, I managed a team of 15 Mozambicans to collect household data in rural villages; this required me not only to oversee scientific goals and to manage data protocols, but also to camp in tents, procure local roosters for dinner, and avoid venomous snakes. These experiences required technical knowledge, people skills, and grit.
+
+To say the least, I have enjoyed working with teams from diverse backgrounds. I believe my unique industry experiences can offer new perspectives and useful applications for statistics and machine learning, particularly in emerging markets where the uptake of such tools is in its infancy.
+
+
+
+
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '900' height = '600' scrolling='yes' ></iframe>   
 
 
