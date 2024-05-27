@@ -51,17 +51,11 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 ## Work experience (abbreviated)
 
 * Data Scientist, Inter-American Development Bank – Washington, D.C. (2018-2021)
-
 * Business Intelligence Consultant, Inter-American Development Bank – Washington, D.C. (2015-2017)
-
 * Research Associate, Jameel Poverty Action Lab - Nampula, Mozambique  (2014-2015)
-
 * Financial Director, Turkish Grameen Microfinance Program - Ankara, Turkey		(2012-2013)
-
 * David L. Boren Fellow – Ankara, Turkey (2012)
-
 * Fulbright Scholar – Lisbon, Portugal	 (2008-2009)
-
 * U.S. Peace Corps Volunteer – El Cambio, Ecuador	(2006-2008)
 
 
