@@ -18,7 +18,9 @@ alt="Selina's world map" width="800" height="600" border="10" title="Click to op
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/world_map_life/Dashboard2?:embed-yes&:display_count=yes&:showVizHome=no" width = '900' height = '600' scrolling='yes' ></iframe>   
 
-
+<!---
+make space
+--->
 
 
 <img src="/images/favicon.ico" width="25"> Unique perspectives <img src="/images/favicon.ico" width="25">
