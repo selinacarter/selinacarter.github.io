@@ -18,11 +18,11 @@ My primary area of interest is uncertainty quantification (UQ) on temporal data 
 <img src="/images/favicon.ico" width="25"> Personal interests <img src="/images/favicon.ico" width="25">
 ======
 
-* <img src="/images/paint.png" width="25"> I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
+* I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
 
-* <img src="/images/girlrun.png" width="25"> I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU. I also sometimes play pick-up soccer.
+* I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU. I also sometimes play pick-up soccer.
 
-* <img src="/images/chicken.png" width="25">I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
+* I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
 
 
 
