@@ -18,11 +18,11 @@ My primary area of interest is uncertainty quantification (UQ) on temporal data 
 Personal interests
 ======
 
-* I love [painting](https://github.com/selinacarter), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
+* I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
 
-* I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU over other schools.
+* I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU.
 
 * I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
 
 
-![Mural in Mozambique](/images/mural_moz.jpg) ![Rainy survey trip in Mozambique](/images/moz_rain.jpg) ![Race in Ecuador](/images/run_ecuador.jpg)
+![Mural in Mozambique](/images/mural_moz.jpg | width=100 ) ![Rainy survey trip in Mozambique](/images/moz_rain.jpg "optional image title") ![Race in Ecuador](/images/run_ecuador.jpg "optional image title" | width=10)
