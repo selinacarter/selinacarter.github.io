@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "![CMU colleagues](/images/favicon.ico) Welcome to my research site! ![CMU colleagues](/images/favicon.ico)"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img src="/images/favicon.ico" width="25"> Welcome to my research site! <img src="/images/favicon.ico" width="25">
+======
 
 ![CMU colleagues](/images/CMU_patio.jpg)
 
