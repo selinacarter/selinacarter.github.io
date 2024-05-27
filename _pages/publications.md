@@ -17,8 +17,8 @@ author_profile: true
 
 
 
-Current projects
-======
+## Current projects
+
 
 * My early focus with Professor Kuchibhotla has centered on inference under minimal assumptions in online settings. To demonstrate the utility of inference via his work, ["Confidence Regions from Convex Hulls" (HulC)](https://arxiv.org/abs/2105.14577), I ran simulations to compare HulC-based confidence intervals using stochastic gradient descent against traditional methods. We are drafting a paper on these results. As a member of CMU's [Statistical Machine Learning Reading Group](http://statml.cs.cmu.edu/), I presented our early results in February 2024 as well as proof sketches from [Chen et al's "Statistical Inference for Model Parameters in Stochastic Gradient Descent"](https://arxiv.org/abs/1610.08637).
 
@@ -46,4 +46,4 @@ Conferences
   * INFORMS Conference on Information Systems & Technology (CIST) (2020)
 * Predicting Delays at the Inter-American Development Bank Using R. R-Gov Conference (Lander Analytics and Georgetown University). [recording](https://www.youtube.com/watch?v=fWfSGI-pf0A) (12/2020)
 * How Are Ideas Spread at Your Organization? Analyze Its Citation Network. R-Gov Conference (Lander Analytics and Georgetown University). [recording](https://www.youtube.com/watch?v=Y_ZGjE5rUwU) (11/2019)
-* The IDB Loan Network: Assessing the Role of Impact Evaluations. Sunbelt 2019 (International Network for Social Network Analysis, Montreal). (6/2019)
+* The IDB Loan Network: Assessing the Role of Impact Evaluations. Sunbelt 2019 (International Network for Social Network Analysis, Montreal). (6/2019) [Check out the cool viz I made.](https://www.youtube.com/watch?v=7Wxqc2A8ZMw)

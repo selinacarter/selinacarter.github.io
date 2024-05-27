@@ -18,7 +18,7 @@ My primary area of interest is uncertainty quantification (UQ) on temporal data 
 Personal interests
 ======
 
-* :_{smiley}: I love [painting](https://github.com/selinacarter), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
+* I love [painting](https://github.com/selinacarter), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
 
 * I like to run. I used to run cross-country. Pittsburgh has excellent hills, which is one reason I chose CMU over other schools.
 
