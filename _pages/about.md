@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+![CMU colleagues](/images/CMU_patio.jpg)
 
 I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html), entering in 2021. Before joining CMU, I worked at the [Inter-American Development Bank (IDB)](https://www.iadb.org/en) as a data scientist in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). 
 
@@ -25,4 +25,4 @@ Personal interests
 * I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
 
 
-![Book logo](/images/selina_head.jpg)
+![Mural in Mozambique](/images/mural_moz.jpg) ![Rainy survey trip in Mozambique](/images/moz_rain.jpg) ![Race in Ecuador](/images/run_ecuador.jpg)
