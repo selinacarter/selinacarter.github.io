@@ -15,7 +15,7 @@ I am currently a Ph.D. student in statistics at [Carnegie Mellon University](htt
 My primary area of interest is uncertainty quantification (UQ) on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla (Statistics Department)](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
 
 
-Personal interests
+![CMU colleagues](/images/favicon.ico) Personal interests <img src="/imagesfavicon.ico" width="5">
 ======
 
 * I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
