@@ -21,7 +21,7 @@ alt="Selina's world map" width="800" height="600" border="10" title="Click to op
 <!---
 make space
 --->
-
+---
 
 <img src="/images/favicon.ico" width="25"> Unique perspectives <img src="/images/favicon.ico" width="25">
 ======
