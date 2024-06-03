@@ -19,10 +19,10 @@ My primary area of interest is **uncertainty quantification (UQ)** on temporal d
 
 Other topics that interest me include:
 
-* Recurrent neural network (RNN) architectures and implementations--especially with a probabilistic outcome
+* Recurrent neural network (RNN) architectures and implementations---especially with a probabilistic outcome
 * Time-series forecasting and online prediction
 * Reinforcement learning
-* Applications to international development - such as natural disaster management using drone imagery
+* Applications to international development -- such as natural disaster management using drone imagery
 
 
 ---
