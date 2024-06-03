@@ -57,5 +57,4 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 * David L. Boren Fellow – Ankara, Turkey (2012)
 * Fulbright Scholar – Lisbon, Portugal	 (2008-2009)
 * U.S. Peace Corps Volunteer – El Cambio, Ecuador	(2006-2008)
-
-
+* Food server at various lobster restaurants - Ogunquit, Maine (summers, 2002-2005)
