@@ -7,6 +7,18 @@ redirect_from:
   - /resume
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DFNFSM90G3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DFNFSM90G3');
+</script>
+
+
+
 {% include base_path %}
 
 I love sharing a passion for statistics through teaching. I enjoy explaining statistics both intuitively and mathematically.
