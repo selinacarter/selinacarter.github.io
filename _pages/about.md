@@ -12,7 +12,7 @@ redirect_from:
 
 ![CMU colleagues](/images/CMU_patio1.jpg)
 
-I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html) (cohort of 2021). Before joining CMU, I worked as a [data scientist](/cv/) in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). I have a background in [international development](/cv/).
+I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html) (cohort of 2021). Before joining CMU, I worked as a [data scientist](/cv/) in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). My earlier background is in [international development](/cv/).
 
 
 My primary area of interest is **uncertainty quantification (UQ)** on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
@@ -22,7 +22,7 @@ Other topics that interest me include:
 * Recurrent neural network (RNN) architectures and implementations---especially with a probabilistic outcome
 * Time-series forecasting and online prediction
 * Reinforcement learning
-* Applications to international development -- such as natural disaster management using drone imagery
+* Applications to international development---such as natural disaster management using drone imagery
 
 
 ---
