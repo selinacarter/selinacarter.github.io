@@ -17,7 +17,7 @@ I am currently a Ph.D. student in statistics at [Carnegie Mellon University](htt
 
 My primary area of interest is **uncertainty quantification (UQ)** on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
 
-Other topics that interest me include:
+Additional topics that interest me include:
 
 * Recurrent neural network (RNN) architectures and implementations---especially with a probabilistic outcome
 * Time-series forecasting and online prediction
