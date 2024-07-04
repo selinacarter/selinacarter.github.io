@@ -23,10 +23,10 @@ redirect_from:
 
 ![CMU colleagues](/images/CMU_patio1.jpg)
 
-I am currently a Ph.D. student in statistics at [Carnegie Mellon University](https://www.cmu.edu/dietrich/statistics-datascience/index.html) (cohort of 2021). Before joining CMU, I worked as a [data scientist](/cv/) in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). My earlier background is in [international development](/cv/).
+I am currently a Ph.D. student in [statistics](https://www.cmu.edu/dietrich/statistics-datascience/index.html) and [machine learning](https://www.ml.cmu.edu/) at Carnegie Mellon University (cohort of 2021), a [joint program](https://www.cmu.edu/dietrich/statistics-datascience/academics/phd/statistics-machine-learning/index.html). Before joining CMU, I worked as a [data scientist](/cv/) in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). My earlier background is in [international development](/cv/).
 
 
-My primary area of interest is **uncertainty quantification (UQ)** on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets.
+My primary area of interest is **uncertainty quantification (UQ)** on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets. My machine learning co-mentor is [Jeff Schneider](https://www.ri.cmu.edu/ri-faculty/jeff-schneider/).
 
 Additional topics that interest me include:
 
