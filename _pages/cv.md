@@ -73,7 +73,8 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 * Food server at various lobster restaurants - Ogunquit, Maine (summers, 2002-2005)
 
 
-
+---
+======
 
 <img src="/images/favicon.ico" width="25"> Personal interests <img src="/images/favicon.ico" width="25">
 ======
