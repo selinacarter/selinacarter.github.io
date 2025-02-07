@@ -74,7 +74,7 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 
 
 ---
-======
+
 
 <img src="/images/favicon.ico" width="25"> Personal interests <img src="/images/favicon.ico" width="25">
 ======

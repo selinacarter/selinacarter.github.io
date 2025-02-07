@@ -35,7 +35,7 @@ Teaching Assistantships
 ======
 * "Time Series" (36-471/671)
   * Statistics and Data Science Department, Carnegie Mellon University
-  * Spring 2024 (Instructor: Mikael Kuusela)
+  * Spring 2024 and 2025 (Instructor: Mikael Kuusela)
 
 * "Advanced Methods for Data Analysis" (36-402/608)
   * Statistics and Data Science Department, Carnegie Mellon University
@@ -43,7 +43,7 @@ Teaching Assistantships
 
 * "Intro to Probability" (36-225)
   * Statistics and Data Science Department, Carnegie Mellon University
-  * Fall 2023 (Instructor: Joel Greenhouse)
+  * Fall 2022 (Instructor: Arun Kumar), 2023 (Instructor: Joel Greenhouse), 2025 (Instructor: Weijing Tang)
 
 * "Probability Theory and Random Processes" (36-219)
   * Statistics and Data Science Department, Carnegie Mellon University
