@@ -71,3 +71,17 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 * Fulbright Scholar – Lisbon, Portugal	 (2008-2009)
 * U.S. Peace Corps Volunteer – El Cambio, Ecuador	(2006-2008)
 * Food server at various lobster restaurants - Ogunquit, Maine (summers, 2002-2005)
+
+
+
+
+<img src="/images/favicon.ico" width="25"> Personal interests <img src="/images/favicon.ico" width="25">
+======
+
+* <img src="/images/paint1.png" width="25"> I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
+* <img src="/images/girlrun.png" width="25"> I like to run. Pittsburgh has excellent hills, which is one reason I chose CMU. I also sometimes play pick-up soccer.
+* <img src="/images/chicken.png" width="25"> I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
+
+
+
+<img src="/images/mural_moz.jpg" width="400" title="Mural I did in Island of Mozambique"><img src="/images/run_ecuador.jpg" width="300" title="Run (10K I think) in Guayaquil, Ecuador"><img src="/images/me_chicken.png" width="200" title="Me (age 7?) and a pet hen in Maine">
