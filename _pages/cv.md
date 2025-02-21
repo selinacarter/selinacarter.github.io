@@ -52,7 +52,7 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 
 ## Education
 
-* Ph.D candidate, Statistics, Carnegie Mellon Univeresity (2021-present)
+* Ph.D candidate, Statistics and Machine Learning, Carnegie Mellon Univeresity (2021-present)
 * M.S. in Mathematics and Statistics, Georgetown University, 2019
 * M.P.A., The Maxwell School, Syracuse University, 2012
 * M.A. in Economics, The Maxwell School, Syracuse University, 2012
