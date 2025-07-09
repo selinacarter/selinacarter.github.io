@@ -68,4 +68,5 @@ author_profile: true
 
 
 
-![Poster at INFORMS-APS 2025](/images/INFORMS_APS_HulC_poster_Selina.jpg)
+
+<img src="/images/INFORMS_APS_HulC_poster_Selina.jpg" alt="Poster at INFORMS-APS 2025" width="50%">
