@@ -31,9 +31,9 @@ author_profile: true
 ## Current projects
 
 
-* Inference using online algorithms: My early focus with my advisor, Arun Kuchibhotla, has centered on inference under minimal assumptions in online settings. This work is ongoing and is summarized in ["Statistical Inference for Online Algorithms."](https://arxiv.org/html/2505.17300v1).
-* Neural network ensembles for UQ
-* Prediction intervals for streaming time series using prior finite-horizon data
+* Inference using online algorithms: My early focus with my advisor, Arun Kuchibhotla, has centered on inference under minimal assumptions in online settings. This work is ongoing and is summarized in ["Statistical Inference for Online Algorithms"](https://arxiv.org/html/2505.17300v1).
+* Neural network ensembles for UQ --- topic of dissertation (stay tuned)
+* Prediction intervals for streaming time series using prior finite-horizon data --- topic of dissertation (stay tuned)
 
 
 
@@ -64,3 +64,8 @@ author_profile: true
 * Predicting Delays at the Inter-American Development Bank Using R. R-Gov Conference (Lander Analytics and Georgetown University). [recording](https://www.youtube.com/watch?v=fWfSGI-pf0A) (12/2020)
 * How Are Ideas Spread at Your Organization? Analyze Its Citation Network. R-Gov Conference (Lander Analytics and Georgetown University). [recording](https://www.youtube.com/watch?v=Y_ZGjE5rUwU) (11/2019)
 * The IDB Loan Network: Assessing the Role of Impact Evaluations. Sunbelt 2019 (International Network for Social Network Analysis, Montreal). (6/2019) [Check out the cool viz I made.](https://www.youtube.com/watch?v=7Wxqc2A8ZMw)
+
+
+
+
+![Poster at INFORMS-APS 2025](/images/INFORMS_APS_HulC_poster_Selina.jpg)
