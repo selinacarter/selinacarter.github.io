@@ -81,7 +81,7 @@ To say the least, I have enjoyed working with teams from diverse backgrounds. I 
 ======
 
 * <img src="/images/paint1.png" width="25"> I love [painting](https://www.instagram.com/selina.carter.art), especially portraits. I have taken art classes from an early age at the Maine College of Art and from various artists in Santa Fe, New Mexico.
-* <img src="/images/nails.png" width="25"> I like having fun nails and nifty makeup as another form of artistic expression.
+* <img src="/images/nails.png" width="25"> I like having fun nails and nifty makeup as another form of creative personal expression.
 * <img src="/images/girlrun.png" width="25"> I like to run. Pittsburgh has excellent hills, which is one reason I chose CMU. I also sometimes play pick-up soccer.
 * <img src="/images/chicken.png" width="25"> I love raising pet chickens. I grew up on a farm in Maine and I sold eggs to neighbors. I also had a [pet chicken](https://www.youtube.com/watch?v=nvbMS_YSOF0) in Mozambique.
 
