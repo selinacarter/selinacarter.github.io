@@ -49,9 +49,7 @@ author_profile: true
 
 ## Conferences
 
-<div align="center">
-  <img src="/images/INFORMS_APS_HulC_poster_Selina.jpg" alt="Poster at INFORMS-APS 2025" width="50%">
-</div>
+<img src="/images/INFORMS_APS_HulC_poster_Selina.jpg" alt="Poster at INFORMS-APS 2025" width="50%">
 
 * "Statistical Inference for Online Algorithms" (presented by S. Carter; joint with A. Kuchibhotla)
   * (Forthcoming) Joint Statistical Meetings (JSM) 2025 - Nashville, TN (08/02/2025) - contributed talk + roundtable
