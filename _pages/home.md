@@ -26,13 +26,12 @@ redirect_from:
 I am currently a Ph.D. student in [statistics](https://www.cmu.edu/dietrich/statistics-datascience/index.html) (cohort of 2021) and [machine learning](https://www.ml.cmu.edu/) at Carnegie Mellon University, a [joint degree program](https://www.cmu.edu/dietrich/statistics-datascience/academics/phd/statistics-machine-learning/index.html). Before joining CMU, I worked as a [data scientist](/cv/) in Washington, D.C. Simultaneously, I completed a master’s degree in mathematics and statistics at [Georgetown University](https://mathstat.georgetown.edu/graduate/). My earlier background is in [international development](/cv/).
 
 
-My primary area of interest is **uncertainty quantification (UQ)** on temporal data using recurrent neural networks, with applications to nuclear fusion and natural disaster management. This is the subject of my research in summer 2024, which is funded by the [AI Institute for Societal Decision Making (AI-SDM)](https://www.cmu.edu/ai-sdm/index.html). I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets. My machine learning co-mentor is [Jeff Schneider](https://www.ri.cmu.edu/ri-faculty/jeff-schneider/).
+My primary area of interest is **uncertainty quantification (UQ)** on temporal data using black-box methods such as recurrent neural networks and transformers. I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets. My machine learning co-mentor is [Jeff Schneider](https://www.ri.cmu.edu/ri-faculty/jeff-schneider/), who works on applications in nuclear fusion and reinforcement learning.
 
 Additional topics that interest me include:
 
-* Recurrent neural network (RNN) architectures and implementations---especially with a probabilistic outcome
-* Time-series forecasting and online prediction
-* Reinforcement learning
+* Time-series forecasting and online prediction---particularly with black-box models such as neural networks
+* Stochastic Gradient Descent (SGD)-based Central Limit Theorems
 * Applications to international development---such as natural disaster management using drone imagery
 
 

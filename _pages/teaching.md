@@ -26,10 +26,25 @@ I love sharing a passion for statistics through teaching. I enjoy explaining sta
 
 Teaching (Instructor)
 ======
+* "Data Science Camp" main instructor
+  * A one-week of statistics instruction/activities targeting Pittsburgh-area high school students, fully funded by CMU
+  * Statistics and Data Science Department, Carnegie Mellon University
+  * Summer 2025
+
 * "Intro to Statistical Inference" (36-226)
   * Statistics and Data Science Department, Carnegie Mellon University
   * Summer 2023
 
+* "Intro to R, Intro to Classification, and Advanced Classification."
+  * A one-week course at the Institute for Defense Analysis (Arlington, VA)
+  * Course materials developed by Data Society
+  * January 2020
+  
+* "Intro to R Programming, Visualizations, and Classification."
+  * A one-week course at the State Department, Foreign Service Institute (Arlington, VA)
+  * Course materials developed by Data Society
+  * March 2020
+  
 
 Teaching Assistantships
 ======

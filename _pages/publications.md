@@ -31,14 +31,17 @@ author_profile: true
 ## Current projects
 
 
-* My early focus with Professor Kuchibhotla has centered on inference under minimal assumptions in online settings. To demonstrate the utility of inference via his work, ["Confidence Regions from Convex Hulls" (HulC)](https://arxiv.org/abs/2105.14577), I ran simulations to compare HulC-based confidence intervals using stochastic gradient descent against traditional methods. We are drafting a paper on these results. As a member of CMU's [Statistical Machine Learning Reading Group](http://statml.cs.cmu.edu/), I presented our early results in February 2024 as well as proof sketches from [Chen et al's "Statistical Inference for Model Parameters in Stochastic Gradient Descent"](https://arxiv.org/abs/1610.08637).
-
-* Disaster management using uncertainty quantification in reinforcement learning (AI Institute for Societal Decision Making at CMU), topic of 2024 summer research
+* Inference using online algorithms: My early focus with my advisor, Arun Kuchibhotla, has centered on inference under minimal assumptions in online settings. This work is ongoing and is summarized in ["Statistical Inference for Online Algorithms."](https://arxiv.org/html/2505.17300v1).
+* Neural network ensembles for UQ
+* Prediction intervals for streaming time series using prior finite-horizon data
 
 
 
 ## Submitted papers and pre-prints
 
+* (Coming soon) Carter, S., Chen, J. and Schneider, J. "Variance-free Inference of Neural Network Ensembles
+ for Uncertainty Quantification." NeurIPS 2025 submission.
+* (Pre-print) Carter, S. and Kuchibhotla, A. ["Statistical Inference for Online Algorithms."](https://arxiv.org/html/2505.17300v1) arXiv preprint arXiv:2505.17300v1 (2025).
 * (Pre-print) Meyer, M. J., Carter, S., Mordukhovich, I., McNeely, E., Malloy, E. J. ["Model Selection in Variational Mixed Effects Models.”](https://arxiv.org/abs/2206.04012) arXiv preprint arXiv:2206.04012 (2022).
 * (Pre-print) Hersh J., Carter S. [“Explainable AI Helps Bridge the AI Skills Gap: Evidence from a Large Bank.”](https://digitalcommons.chapman.edu/economics_articles/276/) Chapman University Digital Commons.
 * "Modeling COVID-19 testing rates by occupation among U.S. adults." Advanced Data Analysis Project (required for second-year PhD students in statistics at CMU), advised by Alex Reinhart and Robin Mejia.
@@ -46,6 +49,11 @@ author_profile: true
 
 ## Conferences
 
+* "Statistical Inference for Online Algorithms" (presented by S. Carter; joint with A. Kuchibhotla)
+  * (Forthcoming) Joint Statistical Meetings (JSM) 2025 - Nashville, TN (08/02/2025) - contributed talk + roundtable
+  * INFORMS-APS 2025 - Georgia Tech (07/02/2025) - contributed talk, poster, and lightning talk
+  * Kansas Women in Math Symposium 2025 - Wichita State (04/27/2025) - poster and lightning talk
+  * Symposium on Data Science and Statistics (SDSS) 2025 - Salt Lake City, UT (04/27/2025) - poster
 * "Will AI Accelerate the Intra-Firm Digital Divide? Evidence from a Field Experiment on How Managers use Explainable AI" (Presented by co-author Jonathan Hersh)
   * MIT Conference on Digital Experimentation (CODE) (11/10/2023)
   * Wharton/Columbia Management, Analytics and Data (MAD) (5/19/2023)
