@@ -28,6 +28,10 @@ I am currently a Ph.D. student in [statistics](https://www.cmu.edu/dietrich/stat
 
 My primary area of interest is **uncertainty quantification (UQ)** on temporal data using black-box methods such as recurrent neural networks and transformers. I am advised by [Arun Kuchibhotla](https://arun-kuchibhotla.github.io/), whose expertise includes forecasting methods and prediction intervals for temporal and online datasets. My machine learning co-mentor is [Jeff Schneider](https://www.ri.cmu.edu/ri-faculty/jeff-schneider/), who works on applications in nuclear fusion and reinforcement learning.
 
+Thesis proposal (September 2, 2025): 
+<a href="http://selinacarter.github.io/files/Proposal_Selina_Carter.pdf" download>"Uncertainty quantification and inference using online methods and neural networks"</a>
+
+
 Additional topics that interest me include:
 
 * Time-series forecasting and online prediction---particularly with black-box models such as neural networks

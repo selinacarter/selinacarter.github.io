@@ -30,10 +30,11 @@ author_profile: true
 
 ## Current projects
 
-
+* Thesis proposal (September 2, 2025): 
+<a href="http://selinacarter.github.io/files/Proposal_Selina_Carter.pdf" download>"Uncertainty quantification and inference using online methods and neural networks"</a>
 * Inference using online algorithms: My early focus with my advisor, Arun Kuchibhotla, has centered on inference under minimal assumptions in online settings. This work is ongoing and is summarized in ["Statistical Inference for Online Algorithms"](https://arxiv.org/html/2505.17300v1).
-* Neural network ensembles for UQ --- topic of dissertation (stay tuned)
-* Prediction intervals for streaming time series using prior finite-horizon data --- topic of dissertation (stay tuned)
+* Neural network ensembles for UQ --- Project 2 of dissertation 
+* Prediction intervals for streaming time series using prior finite-horizon data --- Project 3 of dissertation
 
 
 
